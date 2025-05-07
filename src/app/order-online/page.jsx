@@ -1,4 +1,3 @@
-import Order from '../Components/Order'
 import Footer from '../Components/Footer'
 import Offer from '../Components/Offer'
 
