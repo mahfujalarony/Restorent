@@ -7,24 +7,24 @@ export default function Offer() {
 
   const menuItems = {
     Special: [
-      { price: '$25', title: 'Grilled Salmon', description: 'Fresh salmon with herbs and lemon butter', image: '/picture/i1.jpg' },
-      { price: '$22', title: 'Beef Wellington', description: 'Tender beef wrapped in puff pastry', image: '/picture/i2.jpg'  },
-      { price: '$18', title: 'Truffle Pasta', description: 'Homemade pasta with truffle cream sauce', image: '/picture/i3.jpg'  },
+      { price: '$25', title: 'Grilled Salmon', description: 'Fresh salmon with herbs and lemon butter', image: '/picture/i11.jpg' },
+      { price: '$22', title: 'Beef Wellington', description: 'Tender beef wrapped in puff pastry', image: '/picture/i10.jpg'  },
+      { price: '$18', title: 'Truffle Pasta', description: 'Homemade pasta with truffle cream sauce', image: '/picture/i12.jpg'  },
     ],
     Lunch: [
-      { price: '$15', title: 'Chicken Caesar Salad', description: 'Grilled chicken with romaine lettuce and parmesan', image: '/picture/i4.jpg'  },
-      { price: '$17', title: 'Gourmet Burger', description: 'Angus beef with caramelized onions and aioli',image: '/picture/i5.jpg' },
-      { price: '$14', title: 'Veggie Wrap', description: 'Fresh vegetables with hummus in a whole grain wrap', image: '/picture/i6.jpg'  },
+      { price: '$15', title: 'Chicken Caesar Salad', description: 'Grilled chicken with romaine lettuce and parmesan', image: '/picture/i1.jpg'  },
+      { price: '$17', title: 'Gourmet Burger', description: 'Angus beef with caramelized onions and aioli',image: '/picture/i2.jpg' },
+      { price: '$14', title: 'Veggie Wrap', description: 'Fresh vegetables with hummus in a whole grain wrap', image: '/picture/i3.jpg'  },
     ],
     Breakfast: [
-      { price: '$12', title: 'Avocado Toast', description: 'Sourdough toast with avocado and poached eggs',image: '/picture/i7.jpg'  },
-      { price: '$10', title: 'French Toast', description: 'Brioche bread with maple syrup and berries', image: '/picture/i8.jpg'  },
-      { price: '$14', title: 'Eggs Benedict', description: 'English muffin with poached eggs and hollandaise', image: '/picture/i9.jpg'  },
+      { price: '$12', title: 'Avocado Toast', description: 'Sourdough toast with avocado and poached eggs',image: '/picture/i4.jpg'  },
+      { price: '$10', title: 'French Toast', description: 'Brioche bread with maple syrup and berries', image: '/picture/i5.jpg'  },
+      { price: '$14', title: 'Eggs Benedict', description: 'English muffin with poached eggs and hollandaise', image: '/picture/i6.jpg'  },
     ],
     Dinner: [
-      { price: '$28', title: 'Filet Mignon', description: 'Premium cut steak with red wine reduction', image: '/picture/i10.jpg'  },
-      { price: '$24', title: 'Lobster Risotto', description: 'Creamy risotto with fresh lobster meat', image: '/picture/i11.jpg'  },
-      { price: '$22', title: 'Rack of Lamb', description: 'Herb-crusted lamb with mint sauce', image: '/picture/i12.jpg'  },
+      { price: '$28', title: 'Filet Mignon', description: 'Premium cut steak with red wine reduction', image: '/picture/i7.jpg'  },
+      { price: '$24', title: 'Lobster Risotto', description: 'Creamy risotto with fresh lobster meat', image: '/picture/i8.jpg'  },
+      { price: '$22', title: 'Rack of Lamb', description: 'Herb-crusted lamb with mint sauce', image: '/picture/i9.jpg'  },
     ],
   };
 
