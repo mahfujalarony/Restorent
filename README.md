@@ -2,6 +2,9 @@
 
 A modern, responsive restaurant website UI built with Next.js and Tailwind CSS. This is a frontend-only project focused on creating an elegant and user-friendly restaurant interface without any backend functionality.
 
+##  Live Demo
+
+Check out the live demo of the website: [Restaurant Website](https://restorent-beryl.vercel.app/)
 
 ##  Technologies Used
 
